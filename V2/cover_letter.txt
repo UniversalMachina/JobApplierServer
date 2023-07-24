@@ -1,23 +1,11 @@
-I'm excited to submit my application for the writing position. As a successful Content Strategist, Writer, and Published Author with a passion for storytelling, I'm eager to bring my diverse skill set and track record of success to your organization.
+I am writing to express my interest in the Engineering position at your organization. As a software engineer with a Stanford certification in Machine Learning and the founder of an AI-driven startup, I am excited to bring a unique blend of skills and experiences to your team.
 
-At Donmar Properties Ltd, I held a pivotal role as a Senior Writer, where I crafted diverse documents and developed strategic content that directly contributed to the sale of 50 properties, totaling more than $4M. This success underscores my ability to generate impactful content that drives tangible results.
+My proudest accomplishment, and indeed the project that has given me the most satisfaction, was founding and leading an AI startup during my time in college. Our mission was to revolutionize video editing by leveraging AI technologies. We developed a system that used large language models (LLMs) and natural language processing (NLP) to automate the entire video editing process. The capabilities of our AI were vast, encompassing the scripting of content, applying voice-overs via advanced speech synthesis, and editing video content, all performed autonomously.
 
-In my ongoing freelance work, I've sharpened my skills in SEO strategies and meticulous proofreading, delivering content that is both accurate and versatile. This, coupled with my experience as a Technical Writer at Khan Industrial, where I simplified complex concepts and wrote clear and concise documentation, highlights my skills as a writer.
+Not only did this project allow me to apply my Python, AI, and machine learning skills in a real-world context, but it also pushed me to think outside the box and solve complex problems. It was a hands-on opportunity to deepen my understanding and application of machine learning, complementing the theoretical knowledge I acquired through my Stanford certification.
 
-I am a published author writing multiple self hope books from the "Plummetless" series, which has sold over 5,000 copies and received positive feedback. This achievement showcases my ability to resonate with audiences and create compelling narratives.
+Beyond the technical aspects, this startup venture also honed my skills in entrepreneurship and team leadership. I learned firsthand the importance of a customer-centric approach, clear and effective communication within a team, and the need for adaptability in a rapidly evolving tech landscape.
 
-My academic credentials, including a Bachelor of Arts in English Literature and various specializations from top-tier institutions, equip me to understand and execute a wide range of content strategies. When combined with my hands-on experience, I'm prepared to contribute meaningfully to your content creation and strategy.
+I am eager to bring this multifaceted experience to your organization, applying my technical expertise and leadership skills to contribute to your team's success. I am confident that my unique background can add significant value to your operations and I look forward to potentially discussing this further.
 
-In addition to my writing and strategic skills, I bring proficiency in tools like MS Office, Adobe, Confluence, and Markdown, along with strong research and critical thinking abilities. I'm confident these skills will allow me to seamlessly integrate into your team and hit the ground running.
-
-I invite you to review my portfolio, which showcases a selection of my published work and other content pieces. I believe these examples underscore the diversity and creativity I can bring to your company:
-
-Portfolio: https://drive.google.com/drive/folders/15vwnZsfWN8JQmX3BSNBP4vThkLjHcFLB?usp=sharing
-
-Thank you for considering my application. I'm looking forward to the potential opportunity to discuss how my experiences and skills align with the goals of your company and how we can work together to achieve them.
-
-Best regards,
-
-Eric Bennett
-289-682-0702
-username9037@gmail.com
+Thank you for considering my application.
